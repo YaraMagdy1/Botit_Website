@@ -1,0 +1,1 @@
+{"uuid":"d764f431-db71-454d-bb52-b7cefac08ff3","name":"BotitWebsite.EW_12_ProductDetails","children":["fd0ac14c-cb53-49ba-aa4b-c12ba9954144"],"befores":[{"name":"setUpSite","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1704885548295,"stop":1704885560019}],"afters":[],"start":1704885548227,"stop":1704885583385}
