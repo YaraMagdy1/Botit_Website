@@ -28,6 +28,7 @@ public class BaseWebsite {
     public BotitWebsite.Offers_Page Offers_Page;
     public BotitWebsite.Search_Bar Search_Bar;
     public BotitWebsite.Download_Page Download_Page;
+    public PageContactUs contactUs;
     @BeforeClass
     public void setUpSite() throws IOException {
 
